@@ -1,0 +1,38 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+*.lock
+.packages
+pubspec.lock
+
+# iOS/macOS
+ios/
+macos/Pods/
+macos/Podfile.lock
+macos/Flutter/GeneratedPluginRegistrant.*
+macos/Flutter/flutter_export_environment.sh
+Pods/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.env
+.env.local
+
+# Build artifacts
+*.app/
+*.framework/
+*.xcarchive/
+dist/
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
+*.log

@@ -1,0 +1,16 @@
+// Application-level settings for the Runner target.
+//
+// This may be overridden by target-level settings.
+
+// The application's name. By default this is also the title of the application's
+// temporary directory, and the bundle's display name.
+PRODUCT_NAME = Organizer
+
+// The application's bundle identifier
+PRODUCT_BUNDLE_IDENTIFIER = com.example.organizerApp
+
+// The copyright displayed in application information
+PRODUCT_COPYRIGHT = Copyright © 2024 com.example. All rights reserved.
+
+// macOS deployment target
+MACOSX_DEPLOYMENT_TARGET = 10.14
